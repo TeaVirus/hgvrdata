@@ -145,28 +145,6 @@
             "name": "atmos06",
             "pitchRandom": "None",
             "volume": 0.8
-        },
-        {
-            "basePeriod": 450,
-            "clip": "Atmos07.wav",
-            "isLoop": false,
-            "isSpacial": false,
-            "maxDelaySeconds": 49.0,
-            "minDelaySeconds": 1.3,
-            "name": "atmos07",
-            "pitchRandom": "None",
-            "volume": 0.8
-        },
-        {
-            "basePeriod": 420,
-            "clip": "AtmosZZ.wav",
-            "isLoop": false,
-            "isSpacial": false,
-            "maxDelaySeconds": 49.0,
-            "minDelaySeconds": 1.3,
-            "name": "atmosZZ",
-            "pitchRandom": "None",
-            "volume": 0.8
         }
     ]
 }
