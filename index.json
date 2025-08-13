@@ -1,17 +1,1 @@
-{
-  "version": "1.0.0",
-  "files": {
-    "monsters": {
-      "version": "1.0.1"
-    },
-    "items": {
-      "version": "1.0.1"
-    },
-    "characters": {
-      "version": "1.0.0"
-    },
-    "sfx_profiles": {
-      "version": "1.0.0"
-    }
-  }
-}
+{"version":"1.0.0","files":{"items":{"version":"1.0.0"},"map00_item":{"version":"1.0.0"}}}
